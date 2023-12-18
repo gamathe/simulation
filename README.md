@@ -81,6 +81,7 @@ Angle of front screen (deg), ratio of the screen distance to the window height
 (Angles are measured from the center of the windows).
 
 The results are written in an Excel file (one sheet per building zone)
+
 # OUTPUTS
 'hour_yr’,  	  Hour					(h)
 't_out’, 		    External temperature 				(°C)
@@ -101,6 +102,3 @@ The results are written in an Excel file (one sheet per building zone)
 'Qf_kWhm2’, 	  Dry cooler free chilling cooling energy	per square meter of floor area	(kWh/m²)
 'fr_overcool’,  Fraction of the occupancy time with occurence of overcooling uncomfort	(--)
 'fr_overheat’ 	Fraction of the occupancy time with occurence of overheating uncomfort		(--)
-
-
-
